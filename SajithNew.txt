@@ -2,11 +2,13 @@ import java.util.Scanner;
 public class AddTwoNumbers2 {
 
     public static void main(String[] args) {
-        
-        Satjith int num1, num2, sum;
-        Satjith Scanner sc = new Scanner(System.in);
-        Satjith System.out.println("Enter First Number: ");
-        Satjith num1 = sc.nextInt();
+
+        System.out.println("Starting..!!");
+        int num1, num2, sum;
+        Scanner sc = new Scanner(System.in);
+        System.out.println("Enter First Number: ");
+        num1 = sc.nextInt();
+
         
         System.out.println("Enter Second Number: ");
         num2 = sc.nextInt();
