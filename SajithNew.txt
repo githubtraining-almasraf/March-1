@@ -3,7 +3,7 @@ public class AddTwoNumbers2 {
 
     public static void main(String[] args) {
         
-        Satjith int num1, num2, sum;
+        Sajith again Satjith int num1, num2, sum;
         Satjith Scanner sc = new Scanner(System.in);
         Satjith System.out.println("Enter First Number: ");
         Satjith num1 = sc.nextInt();
