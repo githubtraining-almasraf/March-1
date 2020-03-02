@@ -3,6 +3,7 @@ public class AddTwoNumbers2 {
 
     public static void main(String[] args) {
         
+        System.out.println("Starting..!!");
         int num1, num2, sum;
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter First Number: ");
