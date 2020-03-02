@@ -10,7 +10,7 @@ public class AddTwoNumbers2 {
         num1 = sc.nextInt();
 
         
-        System.out.println("Enter Second Number: ");
+        Sajith System.out.println("Enter Second Number: ");
         num2 = sc.nextInt();
         
         sc.close();
