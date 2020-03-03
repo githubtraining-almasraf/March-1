@@ -9,7 +9,7 @@ If you have a question, or need assistance during class, **please create an issu
 
 ## Give Us Feedback
 
-Please take a moment to complete the class survey at: <https://www.surveymonkey.com/r/M7M9LNL>
+Please take a moment to complete the class survey at: <https://forms.gle/rmFNNNsjER4XfPvz8>
 
 ## Scripts for Adding Files
 
